@@ -19,12 +19,16 @@ Author:
 ```
 ### ⇨  Install Script Di Termux
 ```python
-termux-change-repo
-pkg install python git -y
-git clone https://github.com/ferlyafriliyan/facebook-tools
-cd facebook-tools
-pip3 install -r requirements.txt
-git pull
+termux-setup-storage
+pkg install python
+pkg install git
+pip install request
+pip install mechanize
+pip install bs4
+pip install futures
+git clone https://github.com/AndiXtzy/Cloning.git
+cd Cloning
+python Cloning.py
 ```
 
 ** JANGAN LUPA KASIH BINTANG **
