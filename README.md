@@ -1,29 +1,20 @@
-Selamat datang
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 <detail>
   <ringkasan><b>Informasi lebih lanjut</b></ringkasan>
-
-#### ★ Akun Sosial ★
-<a href="https://www.facebook.com/freya.xyz"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png " alt="alt teks" lebar="75" tinggi="75"></a>
+# ✭ Alat Cloning Facebook
+### Dibuat Dengan 👿🇩🇪 Oleh Andi Kurniawan 
 ```
-Terima Kasih Kepada Kepada
-- Dapunta Khurayra X
-Karena Telah Menjadikan Saya Sebagai Pemegang Script Ini
-```
-# ✭ Alat Facebook
-### Dibuat Dengan ❤️ Oleh Dapunta Khurayra X
-```
-Pengarang:
-- Dapunta Khurayra X
+Author:
+- Andi Kurniawan 
 ```
 ### ⇨ Fitur Masuk
 ```
-[✯] Cookie Masuk   
+[✯] Tanpa Login
 ```
 ### ⇨ Instal Script Di Termux
-``` ular piton
+``` 
 termux-ubah-repo
 pkg instal python git -y
 git clone https://github.com/ferlyafriliyan/facebook-tools
@@ -34,7 +25,7 @@ git tarik
 
 **JANGAN LUPA KASIH BINTANG**
 
-**JANGAN LUPA MEMBERI BINTANG**
+**WARNING SCRIPT HANYA BISA DI GUNAKAN DI TERMUX**
 </detail>
 
 # Facebook-Cloning 
