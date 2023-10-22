@@ -5,7 +5,7 @@ Welcome
   <summary><b>More information</b></summary>
 
 #### ★ Social Accounts ★
-<img src="https://raw.githubusercontent.com/AndiXtzy/Cloning/main/Screenshot_20231022-200920~2.jpg" alt="alt text" width="75" height="75"></a>
+<img src="https://raw.githubusercontent.com/AndiXtzy/Cloning/main/Screenshot_20231022-200920~2.jpg" alt="alt text" width="720" height="1612"></a>
 
 # ✭ Facebook-Tools
 ### Made With ❤️ By Andi Kurniawan 
